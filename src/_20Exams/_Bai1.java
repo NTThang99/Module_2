@@ -1,6 +1,6 @@
 package _20Exams;
 
-public class Bai1_1 {
+public class _Bai1 {
     // *Tính tôngr các giá trị lớn hơn giá trị đứng liền trước nó trong mảng 1 chiều các số thực
     public static void main(String[] args) {
         int[] arr = {1, 23, 4, 5, 13, 54, 76, 12, 43, 44};
